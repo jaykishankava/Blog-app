@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-color: rgb(50, 50, 50) !important;
+    opacity: 0.9;
+    color: #fff;
+    border-radius: 25%;
+}
